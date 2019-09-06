@@ -1,2 +1,2 @@
 # auracoin-mirrors
-Official mirrors list for Auracoin.
+Official peers list for Auracoin.
